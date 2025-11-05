@@ -6,7 +6,7 @@ public class Konzol {
 
  
     public static void main(String[] args) {
-        System.out.println("Kiirás");
+        System.out.println("1");
     }
     
 }
